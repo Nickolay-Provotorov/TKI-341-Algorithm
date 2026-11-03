@@ -96,3 +96,4 @@ for name, algorithm in algorithms:
     print("Number of comparisons:", comparisons)
     print("Execution time:", round(elapsed, 6), "seconds")
     print("Array is sorted:", sorted_array == sorted(array))
+    print("Task complete")
